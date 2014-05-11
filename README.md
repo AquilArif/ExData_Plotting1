@@ -112,3 +112,14 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+#Instructions
+1. Set the working directory
+2. Unzip the data in the workinf directory under a folder named "exdata-data-household_power_consumption" which will contain the data file ("household_power_consumption")
+3. Now just run the .R files to get the respective plots
+4. The first section of the code is common to all files (i.e. the getting, cleaning and subsetting the data)
+5. The second section is used to plot the different graphs 
+6. The code was built using a Windows 8.1 PC and hence the path may need to be updated in case of MAC
+
+
+
+
